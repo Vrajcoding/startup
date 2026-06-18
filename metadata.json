@@ -1,0 +1,6 @@
+{
+  "name": "Startup Founder Dashboard",
+  "description": "A premium SaaS-level execution platform and command center to help early-stage founders assess their startup, track milestones, manage tasks, and connect with mentors using an AI Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
